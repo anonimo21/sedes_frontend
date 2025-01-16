@@ -6,5 +6,6 @@
 ## 2. Instalar dependencias con el comando: npm install
 ## 3. Ejecutar con el comando: npm run dev
 ## 4. Abrir la siguiente URL en en el navegador: http://localhost:5173/
+## Comando para ejecutar pruebas (opcional) : npm test
 ![image](https://github.com/user-attachments/assets/df517bf4-c05a-447e-9985-063f379d387c)
 
