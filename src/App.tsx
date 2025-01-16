@@ -8,8 +8,8 @@ function App() {
   const { sedes, fetchSedes } = useSedes();
 
   return (
-    <ListadoSedes sedes={sedes} fetchSedes={fetchSedes} />
-    //<MyTable sedes={sedes} fetchSedes={fetchSedes} />
+    //<ListadoSedes sedes={sedes} fetchSedes={fetchSedes} />
+    <MyTable sedes={sedes} fetchSedes={fetchSedes} />
   )
 }
 
